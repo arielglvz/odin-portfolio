@@ -59,9 +59,9 @@ img {
 }
 
 .btn {
-  width: 100px;
+  width: 150px;
+  height: 50px;
   padding: 1rem 3rem;
-  height: 20px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -176,6 +176,7 @@ nav {
   
   > .content {
     > h2 {
+      font-size: 36px;
       margin-bottom: 2rem;
       color: #374957;
     }
@@ -202,8 +203,8 @@ nav {
   margin-bottom: 3rem;
   > .content {
     .rectangle-div {
-      padding: 2rem 3rem;
-      height: 200px;
+      padding: 30px 100px;
+      /* height: 200px; */
       background: rgb(72,149,255);
       background: 
       radial-gradient(circle,
